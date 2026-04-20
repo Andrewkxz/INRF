@@ -2,14 +2,16 @@
       INSTITUTO NACIONAL DE REHABILITACIÓN (INRF)     
                 INFORME CLÍNICO OFICIAL               
 ======================================================
-Fecha de Expedición: lunes, 20 de abril de 2026
+Fecha de Expedición: sábado, 18 de abril de 2026
 Documento ID Paciente: 1023
-Nombre del Paciente: julo
+Nombre del Paciente: Andrés
 ------------------------------------------------------
 PLAN DE TRATAMIENTO ASIGNADO:
-No asignado
+Masajes
 ------------------------------------------------------
 REGISTRO HISTÓRICO DE DIAGNÓSTICOS Y SESIONES:
-No hay registros clínicos en el sistema.
+>> Diagnóstico inicial: Lesión
+>> Evolución de la sesión: Ejercicios de fuerza
+>> Evolución de la sesión: Sesión completada
 ======================================================
 Firma Digital Sistema INRF
